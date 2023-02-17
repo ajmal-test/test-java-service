@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestJavaServiceApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World with not-so-perfect sbom workflow!");
+		System.out.println("Hello World with not-so-perfect sbom  with recursive workflow!");
 		SpringApplication.run(TestJavaServiceApplication.class, args);
 	}
 
