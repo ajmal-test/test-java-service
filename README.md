@@ -29,3 +29,5 @@ yee ahw
 haw yee
 
 try wget
+
+try curl
