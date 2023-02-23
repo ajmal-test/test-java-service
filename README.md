@@ -34,4 +34,6 @@ try curl
 
 asdasd
 
+remove node
+
 asdasd
