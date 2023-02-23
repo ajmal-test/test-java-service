@@ -27,3 +27,5 @@ again
 yee ahw
 
 haw yee
+
+try wget
