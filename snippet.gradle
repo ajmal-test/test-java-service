@@ -1,0 +1,10 @@
+def checkIfMultiProject(Project p) {
+     if (p.childProjects.size() > 0) {
+         println 'multi_project=true'
+     }
+}
+
+
+gradle.projectsEvaluated {
+   checkIfMultiProject(gradle.rootProject)
+}
